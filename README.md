@@ -5,6 +5,8 @@ This is a simple python script to view the alarm log files produced by
 OpenSeizureDetector.   Obtain the files either from the OpenSeizureDetector
 web interface or using the 'View Log Entries' menu option on the OpenSeizureDetector Android App.
 
+![alt tag](https://github.com/OpenSeizureDetector/LogView/blob/master/Screenshot_2017-02-18_23-06-10.png)
+
 Usage is simply ./LogView.py filename
 
 The script provides a simple graphical interface to allow you to step through
